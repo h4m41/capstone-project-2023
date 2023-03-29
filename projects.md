@@ -16,3 +16,6 @@ Back-End: https://github.com/nwahameed/ferba-backend
 5. Mohammed Abdalla: 
 Front-End: https://github.com/marshallmhamad/Clothes-Line-FrontEnd
 Back-End: https://github.com/marshallmhamad/Clothes-Line-Backend
+6. Mohammed Ahmed:
+Front-End: https://github.com/h4m41/Kbid-FrontEnd
+Back-End: https://github.com/h4m41/Kbid-BackEnd
